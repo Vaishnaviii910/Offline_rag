@@ -52,16 +52,3 @@ This project implements a high-precision **Retrieval-Augmented Generation (RAG)*
     ```
 3.  **Run the Notebook:**
     Open `offline_rag.ipynb` and execute all cells.
-
----
-
-### **Step to push this README to GitHub:**
-1.  Save the text above as `README.md` in your project folder.
-2.  Run these commands in your terminal:
-    ```cmd
-    git add README.md
-    git commit -m "Added professional documentation"
-    git push origin main
-    ```
-
-**Your GitHub repo will now look like a professional research project!** Do you need help with any of the specific technical sections before you upload?
